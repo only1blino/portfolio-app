@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title="Blino's Portfolio", page_icon="👌", layout="wide")
 
-st.title(body="🫥 **Blino's** Portfolio — *Dashboard*", anchor="home", help="yetty has a big head")
+st.title(body="😃 **Blino's** Portfolio — *Dashboard*", anchor="home", help="yetty has a big head")
 st.header("Introduction: Proffessional Summary!")
 st.subheader("Work Experience")
 
